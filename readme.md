@@ -10,6 +10,10 @@ Thanks!
 
 **Release Notes**
 
+v0.1.2.2
+
+- Fix modman path
+
 v0.1.2.1
 
 - Fix to pow() function argument order courtesy of @brianpittvps 
